@@ -36,5 +36,5 @@ It tells you the last key that was pressed. It's intended to be used something l
 It's like "mouse down?" but lets you check each individual button. Keep in mind that due to how Scratch interprets mouse input, it's possible for a block like "is primary mouse button down?" to report true while the standard "mouse down?" reports false.
 
  * (0) primary is usually left
- * (1) middle is usually scroll wheel
+ * (1) middle is usually scroll the page
  * (2) secondary is usually right (running this block once will disable right click on the stage)
